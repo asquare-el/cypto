@@ -2,7 +2,7 @@
 
 ## Demo Link
 <a href="https://www.youtube.com/shorts/oJvB3v74WUc" target="_blank">
- <img src="https://github.com/asquare-el/cypto/blob/main/photo_2021-10-19_23-29-50.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://github.com/asquare-el/cypto/blob/main/photo_2021-10-19_23-29-50.jpg" alt="Watch the video" width="440" height="380" border="10" />
 </a>
 
 
